@@ -6,7 +6,7 @@ I build full-stack software, from APIs and background workers to the interfaces 
 
 [Portfolio](https://khademi.tech/) · [LinkedIn](https://www.linkedin.com/in/ariankhademi/)
 
-## Selected work
+## Recent work
 
 ### [Rigforge](https://github.com/ArianKhademi/rigforge)
 
